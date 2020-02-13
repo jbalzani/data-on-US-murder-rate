@@ -1,2 +1,0 @@
-#.gitattributes file which reclassifies html files as R files, to avoid language on GitHub being html
-*.html linguist-language=R
